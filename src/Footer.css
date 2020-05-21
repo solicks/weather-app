@@ -1,0 +1,9 @@
+hr {
+    color: #a52aa5;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    color: #ff0000;
+}
